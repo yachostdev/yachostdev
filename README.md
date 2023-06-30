@@ -1,7 +1,7 @@
 <h1 align="center">Hey! 👋, I'm Yeison Castellanos</h1>
-<h3 align="center">I am passionate .NET developer from Colombia. I have creative skills and innovative ideas that reflect an artistic and aesthetic sensibility in my work. I bring my knowledge to provide solutions in web development, my goal is to create technologically advanced solutions, I am a proactive and dynamic person, used to solve problems and unforeseen events autonomously, I have great coordination skills, which allows me to successfully combine different tasks.</h3>
+<h3 align="center">I am passionate frontend developer from Colombia. I have creative skills and innovative ideas that reflect an artistic and aesthetic sensibility in my work. I bring my knowledge to provide solutions in web development, my goal is to create technologically advanced solutions, I am a proactive and dynamic person, used to solve problems and unforeseen events autonomously, I have great coordination skills, which allows me to successfully combine different tasks.</h3>
 
-- 🌱 I’m currently learning **.NET | C#**
+- 🌱 I’m currently learning **Reactjs, python**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Yachost](https://github.com/Yachost)
 
